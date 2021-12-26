@@ -6,6 +6,7 @@ import { InMemoryCache } from "apollo-cache-inmemory";
 import { createHttpLink } from "apollo-link-http";
 
 import Continents from "./Continents";
+import "./Continents.css";
 
 const client = new ApolloClient({
   link: createHttpLink({ uri: "https://countries.trevorblades.com" }),

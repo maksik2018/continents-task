@@ -1,7 +1,13 @@
+h1{
+    margin-left: 40px;
+}
+
 button {
     display: inline;
-    width: 250px;
+    width: 371px;
     text-align: start;
+    padding: 5px;
+    font-size: 20px;
 }
 li { 
      list-style-type: none; 
@@ -11,10 +17,13 @@ li {
     /* display: inline-bock; */
     padding: 5px;
     margin-left: 10px;
-    /* border: 2px solid; */
+    outline: 1px solid gray;
+    width: 350px;
 }
 
 .lang {
-    padding-top: 5px;
-    margin-left: 20px
+    padding: 5px;
+    margin-left: 20px;
+    outline: 1px solid gray;
+    width: 325px;
 }
