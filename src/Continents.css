@@ -1,0 +1,19 @@
+button {
+    display: inline;
+    width: 250px;
+    text-align: start;
+}
+li { 
+     list-style-type: none; 
+}
+
+.text {
+    /* display: inline-bock; */
+    padding: 5px;
+    /* border: 2px solid; */
+}
+
+.lang {
+    padding-top: 5px;
+    margin-left: 20px
+}
