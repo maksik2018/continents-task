@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/continents-task/static/css/main.b1c3d64d.css",
+    "main.js": "/continents-task/static/js/main.d5983c27.js",
+    "index.html": "/continents-task/index.html",
+    "main.b1c3d64d.css.map": "/continents-task/static/css/main.b1c3d64d.css.map",
+    "main.d5983c27.js.map": "/continents-task/static/js/main.d5983c27.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b1c3d64d.css",
+    "static/js/main.d5983c27.js"
+  ]
+}

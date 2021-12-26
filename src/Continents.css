@@ -10,6 +10,7 @@ li {
 .text {
     /* display: inline-bock; */
     padding: 5px;
+    margin-left: 10px;
     /* border: 2px solid; */
 }
 
