@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/continents-task/static/css/main.b1c3d64d.css",
-    "main.js": "/continents-task/static/js/main.d5983c27.js",
+    "main.css": "/continents-task/static/css/main.7373ba0d.css",
+    "main.js": "/continents-task/static/js/main.89d1bb0e.js",
     "index.html": "/continents-task/index.html",
-    "main.b1c3d64d.css.map": "/continents-task/static/css/main.b1c3d64d.css.map",
-    "main.d5983c27.js.map": "/continents-task/static/js/main.d5983c27.js.map"
+    "main.7373ba0d.css.map": "/continents-task/static/css/main.7373ba0d.css.map",
+    "main.89d1bb0e.js.map": "/continents-task/static/js/main.89d1bb0e.js.map"
   },
   "entrypoints": [
-    "static/css/main.b1c3d64d.css",
-    "static/js/main.d5983c27.js"
+    "static/css/main.7373ba0d.css",
+    "static/js/main.89d1bb0e.js"
   ]
 }
